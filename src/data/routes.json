@@ -1,0 +1,17 @@
+{
+  "optimized": {
+    "T01": ["DEPOT", "DEPOT"],
+    "T02": ["DEPOT", "B003", "B010", "B012", "B008", "B009", "DEPOT"],
+    "T03": ["DEPOT", "B019", "B014", "B016", "B006", "B011", "B005", "DEPOT"]
+  },
+  "baseline": ["DEPOT", "B003", "B005", "B006", "B008", "B009", "B010", "B011", "B012", "B014", "B016", "B019", "DEPOT"],
+  "stats": {
+    "optimizedDistanceKm": 11.91,
+    "baselineDistanceKm": 24.05,
+    "optimizedFuelL": 2.80,
+    "baselineFuelL": 5.67,
+    "optimizedCo2Kg": 7.52,
+    "baselineCo2Kg": 15.18,
+    "collectedWasteKg": 1020.0
+  }
+}

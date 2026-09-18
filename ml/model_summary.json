@@ -1,0 +1,23 @@
+{
+  "model": "Random Forest Classifier",
+  "dataset_rows": 4638,
+  "features": ["FL_B","FL_A","VS","FL_B_3","FL_A_3","FL_B_12","FL_A_12","Container Type","Recyclable fraction"],
+  "accuracy": 0.95,
+  "emptying_precision": 0.95,
+  "emptying_recall": 0.96,
+  "emptying_f1": 0.95,
+  "non_emptying_precision": 0.96,
+  "non_emptying_recall": 0.95,
+  "non_emptying_f1": 0.96,
+  "feature_importance": {
+    "VS": 0.420165,
+    "FL_B": 0.177029,
+    "FL_B_3": 0.087812,
+    "FL_B_12": 0.080407,
+    "FL_A": 0.069715,
+    "FL_A_12": 0.058644,
+    "FL_A_3": 0.057085,
+    "Container Type": 0.025,
+    "Recyclable fraction": 0.024143
+  }
+}

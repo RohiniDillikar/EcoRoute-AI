@@ -1,0 +1,21 @@
+Bin_ID,Latitude,Longitude,Capacity_kg,Estimated_Waste_kg,Predicted_Class,Emptying_Probability,Collection_Priority
+B001,17.742,83.311,100,38.4,Non Emptying,0.18,Low
+B002,17.731,83.326,150,71.2,Non Emptying,0.31,Low
+B003,17.736,83.303,200,121.5,Emptying,0.91,High
+B004,17.751,83.334,100,42.8,Non Emptying,0.46,Low
+B005,17.721,83.318,150,83.1,Emptying,0.78,High
+B006,17.746,83.337,200,96.7,Emptying,0.88,High
+B007,17.728,83.306,100,36.2,Non Emptying,0.22,Low
+B008,17.754,83.319,150,77.4,Emptying,0.73,High
+B009,17.739,83.329,100,51.6,Emptying,0.84,High
+B010,17.718,83.337,200,108.2,Emptying,0.95,High
+B011,17.749,83.309,150,88.9,Emptying,0.76,High
+B012,17.727,83.341,200,112.7,Emptying,0.93,High
+B013,17.755,83.303,100,34.6,Non Emptying,0.39,Low
+B014,17.733,83.346,200,94.8,Emptying,0.72,High
+B015,17.720,83.302,150,49.3,Non Emptying,0.28,Low
+B016,17.744,83.345,150,73.5,Emptying,0.81,High
+B017,17.752,83.326,100,31.7,Non Emptying,0.44,Low
+B018,17.724,83.332,150,56.9,Non Emptying,0.47,Low
+B019,17.716,83.311,200,85.6,Emptying,0.75,High
+B020,17.748,83.322,100,40.1,Non Emptying,0.33,Low
