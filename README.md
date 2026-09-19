@@ -1,9 +1,18 @@
-# EcoRoute AI — Final Interactive Prototype
+# EcoRoute AI
 
 EcoRoute AI is an AI-powered sustainable waste collection intelligence prototype.
 It demonstrates how smart-bin sensor signals can become collection priorities,
 explainable decisions, dispatch queues, fleet routes, and simulated environmental
 impact estimates.
+
+## 🌐 Live Prototype
+
+[🚀 Open EcoRoute AI](https://eco-route-noie9t4d5-eco-route-ai.vercel.app/)
+
+## 🎥 Demo Video
+
+[▶️ Watch the Complete EcoRoute AI Demo](https://drive.google.com/file/d/1FGuPkgRcanajWVcUHYBTch1jqNqNo1JR/view?usp=sharing)
+
 
 ## Run
 
